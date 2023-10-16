@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom"
 
 import './Navbar.css'
-
+ {/ * cria a barra de navegaçao no header */}
+ {/ *  */}
 const Navbar = () => {
   return (
     <nav className='navbar'>
