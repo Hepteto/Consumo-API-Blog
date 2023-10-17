@@ -7,7 +7,7 @@ function App() {
   {/* retorna o app*/}
   return (
     <div className='App'>
-      {/ *  retorna  a barra de navegacao */}
+      {/*  retorna  a barra de navegacao */}
       <Navbar />
       <div className='container'>
         {/*retorna as infromacoes dos posts */}
