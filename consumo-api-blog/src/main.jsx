@@ -8,8 +8,7 @@ import {createBrowserRouter, RouterProvider, Route} from 'react-router-dom'
 import Home from './routes/Home.jsx'
 import NewPost from './routes/NewPost.jsx'
 {/*  cria as rotas com path : o que sera mostrado na url para o usuario
-      e element: onde sera buscado a pagina
-  */}
+      e element: onde sera buscado a pagina */}
 const router = createBrowserRouter([
   {
     element: <App />,
