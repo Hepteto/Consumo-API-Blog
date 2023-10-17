@@ -2,12 +2,12 @@ import blogFetch from '../axios/config'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import './NewPost.css'
-{/ * cria a interface da pagina para adicionar um novo post */}
+// cria a interface da pagina para adicionar um novo post 
 const NewPost = () => {
 
   const navigate = useNavigate()
 
-  {/ *  */}
+
   const [title, setTitle] = useState()
   const [body, setBody] = useState()
 
@@ -19,22 +19,22 @@ const NewPost = () => {
 
     navigate('/')
   }
-  {/ *  retorna a interface da pagina para adicionar um novo post*/}
+  // retorna a interface da pagina para adicionar um novo post*
   return (
     <div className='new-post'>
 
           <h2>Novo post</h2>
-            {/ *  cria um fromulario de solicitaçao dos dados do novo post*/}
+           {/*  cria um fromulario de solicitaçao dos dados do novo post */}
             <form onSubmit={(e) => createPost(e)}>
               <div className='form-control'>
-                {/ *  solicitacao do title do post*/}
+                {/*  solicitacao do title do post*/}
                 <input  type='text' 
                         name='title' 
                         id='title' 
                         placeholder='Digite o título'
                         onChange={(e) => setTitle(e.target.value)}
                 />
-                {/ * solicitacao do body do post */}
+                {/* solicitacao do body do post */}
                 <textarea name='body' 
                         id='body' 
                         placeholder='Digite o conteúdo'
