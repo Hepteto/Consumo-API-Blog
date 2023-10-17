@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom"
 
 import './Navbar.css'
- {/ * cria a barra de navegaçao no header */}
- {/ * todos os elementos redirecionam para um link especifico*/}
+ //  cria a barra de navegaçao no header 
+ //  todos os elementos redirecionam para um link especifico
 const Navbar = () => {
   return (
     <nav className='navbar'>
