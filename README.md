@@ -1,8 +1,9 @@
 ![header](https://64.media.tumblr.com/12ca7b73fa2efe7c430d911d4e62f487/84f40d067667fc17-a3/s2048x3072/1072e90413b907041d1e75a5dd4170c41b0db5f4.pnj)
 
-# API Blog
+# Consumindo a API Blog
 
-Uma API simples RESTful com CRUD que fornece dados JSON de título e texto de um post.
+Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD. A qual fornece dados JSON de título e texto de um post.
+
 <br /><br />
 :globe_with_meridians: Site de demonstração: https://consumo-api-blog.vercel.app/
 <br />
