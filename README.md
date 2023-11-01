@@ -9,6 +9,8 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 ## Stacks
 ![Stacks](https://skillicons.dev/icons?i=nodejs,react,vite&perline=3)
 
+## Wireframe
+![wireframe](https://64.media.tumblr.com/3e3afc94385ad4403f0c41c09086ad71/c99ce3a2bf27d524-d1/s2048x3072/eb2acf850a74b55151f06d6d84672b2436074536.pnj)
 
 ## API
 :globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
