@@ -9,11 +9,8 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 <br />
 :globe_with_meridians: Documentação da API: https://app.swaggerhub.com/apis-docs/HEPTETOOFICIAL/BLOG_HEPTETO/1.0#/
 
-## Host de produção
-
-[https://api-blog-hepteto.vercel.app](https://api-blog-hepteto.vercel.app)
-
 ## API
+:globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
 
 ### `POST /posts`
 Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicitação:
