@@ -9,6 +9,10 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 <br />
 :globe_with_meridians: Documentação da API: https://app.swaggerhub.com/apis-docs/HEPTETOOFICIAL/BLOG_HEPTETO/1.0#/
 
+## Stacks
+![Stacks](https://skillicons.dev/icons?i=nodejs,react,vite&perline=3)
+
+
 ## API
 :globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
 
