@@ -5,8 +5,6 @@
 Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD. A qual fornece dados JSON de título e texto de um post.
 
 :globe_with_meridians: Site: https://consumo-api-blog.vercel.app/
-<br />
-:globe_with_meridians: Documentação da API: https://app.swaggerhub.com/apis-docs/HEPTETOOFICIAL/BLOG_HEPTETO/1.0#/
 
 ## Stacks
 ![Stacks](https://skillicons.dev/icons?i=nodejs,react,vite&perline=3)
