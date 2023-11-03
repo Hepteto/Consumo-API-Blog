@@ -8,7 +8,7 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 
 ## Stacks
 
-![Stacks](https://skillicons.dev/icons?i=nodejs,react,vite,vercel,html,css&perline=6)
+![Stacks](https://skillicons.dev/icons?i=nodejs,vite,react,html,css,vercel&perline=6)
 
 ## Wireframe
 ![wireframe](https://64.media.tumblr.com/fdcfbb625e10e7c6e08e2f972b9f5c9c/b228ba4571478b61-de/s2048x3072/d63b357a56d1ac9448d3170598291e86a369f2de.jpg)
