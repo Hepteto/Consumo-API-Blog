@@ -6,8 +6,6 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 
 :globe_with_meridians: Site: https://consumo-api-blog.vercel.app/
 
-:globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
-
 ## Stacks
 
 ![Stacks](https://skillicons.dev/icons?i=nodejs,vite,react,html,css,vercel&perline=6)
@@ -16,6 +14,7 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 ![wireframe](https://64.media.tumblr.com/fdcfbb625e10e7c6e08e2f972b9f5c9c/b228ba4571478b61-de/s2048x3072/d63b357a56d1ac9448d3170598291e86a369f2de.jpg)
 
 ## API
+:globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
 
 ##
 ![CRUD API](https://64.media.tumblr.com/02b45bc24ac59348628a9ac7f59ac731/d6a66cbb62fdd41d-6a/s2048x3072/f547062af7b7c1ea6cc0e384eb42d4a5480e51d3.jpg)
