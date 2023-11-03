@@ -10,12 +10,12 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 ![Stacks](https://skillicons.dev/icons?i=nodejs,react,vite,vercel&perline=4)
 
 ## Wireframe
-![wireframe](https://64.media.tumblr.com/3e3afc94385ad4403f0c41c09086ad71/c99ce3a2bf27d524-d1/s2048x3072/eb2acf850a74b55151f06d6d84672b2436074536.pnj)
+![wireframe](https://64.media.tumblr.com/fdcfbb625e10e7c6e08e2f972b9f5c9c/b228ba4571478b61-de/s2048x3072/d63b357a56d1ac9448d3170598291e86a369f2de.jpg)
 
 ## API
 :globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
 
-![CRUD API](https://64.media.tumblr.com/f54501735c296b2619b89ca53e3b0e78/111638758f49e75a-03/s2048x3072/7611cc286a1308b861e45908ef9e3519a7b1d138.pnj)
+![CRUD API](https://64.media.tumblr.com/02b45bc24ac59348628a9ac7f59ac731/d6a66cbb62fdd41d-6a/s2048x3072/f547062af7b7c1ea6cc0e384eb42d4a5480e51d3.jpg)
 
 - `POST /posts`
 Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicitação.
