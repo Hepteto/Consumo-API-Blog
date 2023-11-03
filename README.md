@@ -15,7 +15,6 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 
 ## API
 
-##
 ![CRUD API](https://64.media.tumblr.com/02b45bc24ac59348628a9ac7f59ac731/d6a66cbb62fdd41d-6a/s2048x3072/f547062af7b7c1ea6cc0e384eb42d4a5480e51d3.jpg)
 
 ## 
