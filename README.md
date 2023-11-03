@@ -6,7 +6,7 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 
 :globe_with_meridians: Site: https://consumo-api-blog.vercel.app/
 
-## Stacks
+## Tech Stack
 
 ![Stacks](https://skillicons.dev/icons?i=nodejs,vite,react,html,css,vercel&perline=6)
 
