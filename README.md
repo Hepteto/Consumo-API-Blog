@@ -15,19 +15,4 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 ## API
 :globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
 
-![CRUD API](https://64.media.tumblr.com/02b45bc24ac59348628a9ac7f59ac731/d6a66cbb62fdd41d-6a/s2048x3072/f547062af7b7c1ea6cc0e384eb42d4a5480e51d3.jpg)
-
-- `POST /posts`
-Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicitação.
-
-- `GET /posts`
-Retorna uma lista de todas as postagens no blog.
-    
-- `GET /posts/{id}`
-Retorna os detalhes de uma postagem específica com base no `id`.
-
-- `PATCH /posts/{id}`
-Atualiza uma postagem existente com base no `id` com os dados fornecidos no corpo da solicitação.
-
-- `DELETE /posts/{id}`
-Exclui uma postagem existente com base no `id`.
+![CRUD API](https://64.media.tumblr.com/02b45bc24ac59348628a9ac7f59ac731/d6a66cbb62fdd41d-6a/s2048x3072/f547062af7b7c1ea6cc0e384eb42d4a5480e51d3.jpg)
